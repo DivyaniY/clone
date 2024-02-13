@@ -1,1 +1,1 @@
-# clone of amazon.com
+# These are my project
